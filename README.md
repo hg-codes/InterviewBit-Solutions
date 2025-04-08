@@ -8,16 +8,22 @@ This repository contains my personal solutions to problems from [InterviewBit](h
 
 Each folder represents a topic, similar to how InterviewBit categorizes them:
 
+- Time Complexity
 - Arrays
+- Math
+- Binary Search
+- Bit Manipulation
 - Strings
+- Two Pointers
 - Linked Lists
 - Stacks and Queues
-- Trees
-- Graphs
+- BackTracking
 - Hashing
-- Heaps and Maps
-- Math
+- Heaps And Maps
+- Tree data Structure
 - Dynamic Programming
+- Greedy Algorithm
+- Graphs Data Structure & Algorithms
 
 Each problem file is named appropriately and may include comments explaining the logic.
 
@@ -26,8 +32,8 @@ Each problem file is named appropriately and may include comments explaining the
 ## 🛠 Languages Used
 
 - C++
-<!-- You can add more if you plan to use them -->
-<!-- - Python -->
+- C
+- Python
 
 ---
 
